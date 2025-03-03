@@ -29,4 +29,4 @@ A simple image gallery with infinite scroll and modal preview, built using React
 
 # API Used
 - [Picsum Photos API](https://picsum.photos/)
-  - Endpoint: `https://picsum.photos/v2/list?page=1&limit=9`
+  - Endpoint: `https://picsum.photos/v2/list?page=1&limit=9`# image-gallery
